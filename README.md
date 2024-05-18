@@ -1,4 +1,4 @@
-# umni_speech
+# umini_speech
 
 The first version of Yodi is built on the umini_speech dataset, the mini speech dataset which was developed and is currently being improved by the Umbaji team. It is a set of more than 800 augmented recordings from various users, in different settings speaking the same words as in the mini speech dataset but in Ewè.
 
