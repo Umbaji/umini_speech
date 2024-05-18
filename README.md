@@ -10,4 +10,4 @@ We consider the word labels (transcripts) vector space for the recognition,
 
 $\Omega = \{ 'down','go','left','no','right','stop','up','yes'\}$
 
-Consult the Yodi package [here]([url](https://github.com/Umbaji/Yodi))
+Consult the Yodi package here :https://github.com/Umbaji/Yodi
